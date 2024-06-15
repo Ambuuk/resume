@@ -1,0 +1,23 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: bold;
+    width: 21cm;
+    height: 29.7cm;
+}
+
+@page {
+    size: 21cm 29.7cm;
+    margin: 0mm;
+}
+
+
+h1,
+h2 {
+    color: #0a9d9d
+}
+
+.container {
+    position: relative;
+}
